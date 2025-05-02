@@ -8,10 +8,10 @@
 <meta charset="UTF-8">  
 
 <!-- sample title for SCHOOL home page -->
-<title>D.I. von Briesen's Charlotte Website</title>
+<title> Jordan Taylor's Website</title>
 
 <!-- sample title for COURSE home page -->
-<title>D.I. von Briesen's Dapper Viper &diamonds; ITSC1110 &diamonds; Home</title>
+<title>Test course</title>
 
 <style>    
 
@@ -23,10 +23,10 @@
 <header>
 
 <!-- sample h1 for SCHOOL home page -->
-<h1>Welcome D.I. von Briesen's Charlotte Website</h1>
+<h1>Welcome to Jordan Taylor's</h1>
 
 <!-- sample h1 for COURSE home page -->
-<h1>D.I. von Briesen's Dapper Viper &diamonds; ITSC1110</h1>
+<h1>Jordan Taylor ITSC1110</h1>
 
 </header>
 
